@@ -1,3 +1,3 @@
-# Generate-Checksums
+# Generate-Checksums-Utility
 
 Batch files to generate SHA256 & MD5 checksum files using drag and drop.
